@@ -1,0 +1,1 @@
+alert("Welcome to Naval's Website!")
